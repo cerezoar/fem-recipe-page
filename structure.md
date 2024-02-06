@@ -1,0 +1,24 @@
+- html
+    - head
+    - body
+        - container
+        - content
+            - recipe-img
+            - content-inner
+              - intro
+                - h1
+                - p
+              - preptime
+                - h2
+                - ul
+              - ingredients
+                - h2
+                - ul
+              - instruction
+                - h2
+                - ol
+              - nutrition
+                - h2
+                - p
+                - table
+        - footer
