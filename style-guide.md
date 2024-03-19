@@ -17,7 +17,7 @@ The designs were created to the following widths:
 ### Neutral
 
 - White: #ffffff (recipe container)
-- Rose White: #fff5fa (prep-container) 
+- Rose White: #fff5fa (prep-container)
 - Eggshell: #f3e6d8 (body)
 - Light Grey: #e4ded8
 - Wenge Brown: #5f574e
